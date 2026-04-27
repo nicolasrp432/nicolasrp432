@@ -19,8 +19,8 @@ Frontend Developer enfocado en proyectos freelance:
 **webs de negocio, landing pages, portfolios y productos digitales** con React + TypeScript + IA.
 
 [![Contrátame](https://img.shields.io/badge/🚀_Disponible_para_freelance-FF7E5F?style=for-the-badge)](#contacto)
-[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-151515?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicolas-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-151515?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://nicolas-portfolio.vercel.app](https://nicolas-portfolio-eight.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-rodriguez-00b451354/?skipRedirect=true)
 
 </div>
 
