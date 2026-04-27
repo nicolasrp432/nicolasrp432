@@ -109,9 +109,9 @@ Si quieres, te respondo con una propuesta inicial en base a tu idea.
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🚀 Hecho con ❤️ por Nicolas                            ║
-║  ⭐ Si te gusta este proyecto, ¡dale una estrella!      ║
-║  🤝 Siempre abierto a nuevas oportunidades             ║
+║  🚀 Hecho con ❤️ por Nicolas                             ║
+║  ⭐ Si te gusta este proyecto, ¡dale una estrella!       ║
+║  🤝 Siempre abierto a nuevas oportunidades               ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
