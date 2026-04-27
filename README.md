@@ -96,9 +96,9 @@ No vendo humo:
 
 Estoy disponible para colaborar en proyectos freelance.
 
-- 🌐 Portfolio: https://nicolas-portfolio.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/nicolas
-- 📩 Email: nicolas@example.com
+- 🌐 Portfolio: https://nicolas-portfolio-eight.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/nicolas-rodriguez-00b451354/?skipRedirect=true
+- 📩 Email: nicolasrp432@gmail.com
 - 🧑‍💻 GitHub: https://github.com/nicolasrp432
 
 Si quieres, te respondo con una propuesta inicial en base a tu idea.
